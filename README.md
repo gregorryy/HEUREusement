@@ -1,5 +1,7 @@
 # HEUREusement
 
+![sample](HEUREusement.png)
+
 ## Description
 
 Ce projet est une horloge en ligne simple, développée avec HTML, CSS et JavaScript. Elle affiche l'heure actuelle et se met à jour automatiquement chaque seconde. L'interface est esthétique et inclut des animations. Ce projet est conçu pour être exécuté localement sur un navigateur web comme Google Chrome. Des widgets supplémentaires pourront être ajoutés par la suite pour étendre ses fonctionnalités.
@@ -9,7 +11,6 @@ Ce projet est une horloge en ligne simple, développée avec HTML, CSS et JavaSc
 - Affichage de l'heure actuelle (heures, minutes, secondes)
 - Mise à jour automatique de l'horloge chaque seconde
 - Interface utilisateur attrayante avec animations
-- Possibilité d'ajouter des widgets (comme la date, alarmes, minuteurs, etc.)
 
 ## Technologies utilisées
 

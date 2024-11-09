@@ -8,7 +8,5 @@ function afficherHeure() {
   document.getElementById("horloge").textContent = heureFormatee;
 }
 
-// Appel initial de la fonction pour éviter le délai d'une seconde avant le premier affichage
 afficherHeure();
-// Mise à jour de l'heure chaque seconde
 setInterval(afficherHeure, 1000);

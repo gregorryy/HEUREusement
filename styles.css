@@ -19,6 +19,9 @@
   font-family: Nunito;
   font-weight: 900;
   color: #348890;
+  text-shadow: -5px -5px 0 #045c74, 5px -5px 0 #045c74, -5px 5px 0 #045c74,
+    5px 5px 0 #045c74, 0px -5px 0 #045c74, 0px 5px 0 #045c74, -5px 0px 0 #045c74,
+    5px 0px 0 #045c74;
 }
 
 html,
